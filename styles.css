@@ -5,8 +5,8 @@
 }
 .center {
   margin: 0 auto;
-  background: lightgrey;  /*Gray Background to make the div visible */
-  width: 80%;  /*This should be the max-widh of my website*/
+  background: lightgrey; 
+  width: 100%;  
   display: inlinr-block;
 
 }
@@ -44,7 +44,7 @@
 
 header{
   background: white;
-  padding: 10px;
+  
 }
 header h1{
   margin:0;
@@ -92,4 +92,7 @@ div.container-gallery{
 }
 .g-col-4 {
   margin: 10px;
+}
+.navbar {
+  position: absolute;
 }
