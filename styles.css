@@ -1,12 +1,13 @@
 .body {
   size-adjust: 100%;
   background-color: rgb(231, 231, 231);
+  font-style: normal;
 
 }
 .navbar {
   padding-right: 15%;
   padding-left: 15%;
-  color: red;
+ 
 
 }
 .navbar-brand {
