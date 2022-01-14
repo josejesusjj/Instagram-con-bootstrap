@@ -1,18 +1,29 @@
 .body {
   size-adjust: 100%;
-  background-color: lightgray;
+  background-color: rgb(231, 231, 231);
+
+}
+.navbar {
+  padding-right: 15%;
+  padding-left: 15%;
+  color: red;
+
+}
+.navbar-brand {
+  font-style: italic;
+  font-weight: bolder;
+  color: red;
+
 
 }
 .center {
   margin: 0 auto;
-  background: lightgrey; 
+  background: rgb(230, 230, 230); 
   width: 100%;  
   display: inlinr-block;
 
 }
-.dropdown-menu {
-    position: left;
-}
+
 
 .MiFuente {
   font-family: "MiFuente", Arial, Verdana, sans-serif;
@@ -92,7 +103,10 @@ div.container-gallery{
 }
 .g-col-4 {
   margin: 10px;
+
 }
-.navbar {
-  position: absolute;
+
+.gallery {
+  width: 100%;
+ 
 }
