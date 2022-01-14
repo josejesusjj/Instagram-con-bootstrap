@@ -33,7 +33,7 @@
 
   }
 .col-8 navbar-brand {
-  font-family: Helvetica, Trebuchet MS, Verdana, Arial,, sans-serif;
+  font-family: Helvetica, Trebuchet MS, Verdana, Arial, sans-serif;
   font-style: italic;
 }
 
@@ -98,9 +98,6 @@ div.container-gallery{
   display: flex;
   padding: 10px;
   margin: 10px;
-}
-.image {
-  
 }
 .g-col-4 {
   margin: 10px;
