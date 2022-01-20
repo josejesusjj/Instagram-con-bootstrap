@@ -52,7 +52,9 @@
   text-align: center;
 
 }
-
+#engranaje {
+  width: 80%;
+}
 
 header{
   background: white;
